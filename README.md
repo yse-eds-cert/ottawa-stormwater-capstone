@@ -43,7 +43,7 @@ The project uses or plans to use three sources:
 | `0_admin/` | Project documentation and research notes. |
 | `1_raw_data/` | Original rainfall, climate, and development datasets. |
 | `2_clean_data/` | Processed datasets prepared for analysis. |
-| `3_scripts/` | R scripts for preprocessing and analysis. |
+| `3_scripts/` | R scripts for processing and analysis. |
 | `4_outputs/` | Figures, tables, and research results. |
 
 Files use lowercase letters, underscores, and the main folder number as a prefix.
